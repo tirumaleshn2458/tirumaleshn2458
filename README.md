@@ -1,3 +1,3 @@
-# Hi👋  Thanks for visiting my github profile
-## This is Tirumalesh N
+# Hi👋  This is Tirumalesh N 
+## Thanks for visiting my github profile
 ### Data Science Enthusiast 
