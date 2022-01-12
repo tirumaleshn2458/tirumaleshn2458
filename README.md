@@ -12,6 +12,7 @@
   - Credit card fraud detection
   > https://github.com/tirumaleshn2458/credit_card 
   - Air Quality Index
+  > https://github.com/tirumaleshn2458/project_notebooks/tree/Air_quality_index_prediction
   - Water Quality Analysis
   > https://github.com/tirumaleshn2458/project_notebooks/tree/water_quality_prediction
   - Employee Retention
