@@ -20,10 +20,15 @@
   - Person Wage
   > https://github.com/tirumaleshn2458/person_wage
   - Cancer Death Rate 
-  - House Price in Boston
-  - House Price in Washington
+  > https://github.com/tirumaleshn2458/TCR_project
+  - Boston House Price prediction
+  > https://github.com/tirumaleshn2458/house_price_boston
+  - Washington House Price prediction
+  > https://github.com/tirumaleshn2458/house_price_wdc
   - Drug Classification
-  - Car Price
+  > https://github.com/tirumaleshn2458/drug_classification
+  - Car Price prediction
+  > https://github.com/tirumaleshn2458/car_price
  
   
   
@@ -33,5 +38,5 @@
   > https://github.com/tirumaleshn2458/project_notebooks/tree/maryland_vehicle_crash
   - Seoul Bike Sharing Demand
 - Forecast
-  - House Prices of top cities
+  - Connecticut House Prices
   > https://github.com/tirumaleshn2458/House-Prices-forecast
