@@ -13,6 +13,7 @@
   > https://github.com/tirumaleshn2458/credit_card 
   - Air Quality Index
   - Water Quality Analysis
+  > https://github.com/tirumaleshn2458/project_notebooks/tree/water_quality_prediction
   - Employee Retention
   > https://github.com/tirumaleshn2458/project_notebooks/tree/Employee-Attrition
   - Person Wage
