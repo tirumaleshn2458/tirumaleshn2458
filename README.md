@@ -7,7 +7,7 @@
 - Machine Learning
   - Big Mart Sales
   > https://github.com/tirumaleshn2458/project_notebooks/tree/Big-Mart-Sales
-  - Real Estate Sales
+  - Real Estate Sales in USA
   > https://github.com/tirumaleshn2458/project_notebooks/tree/Real-Estate-Sales
   - Credit card fraud detection
   > https://github.com/tirumaleshn2458/credit_card 
