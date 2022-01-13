@@ -11,7 +11,7 @@
   > https://github.com/tirumaleshn2458/project_notebooks/tree/Real-Estate-Sales
   - Air Quality Index
   > https://github.com/tirumaleshn2458/project_notebooks/tree/Air_quality_index_prediction
-  - Water Quality Analysis
+  - Water Quality Classification
   > https://github.com/tirumaleshn2458/project_notebooks/tree/water_quality_prediction
   - Seoul Bike Sharing Demand
   > https://github.com/tirumaleshn2458/project_notebooks/tree/seoul_bike_sharing_demand
