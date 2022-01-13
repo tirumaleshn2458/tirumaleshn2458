@@ -9,12 +9,14 @@
   > https://github.com/tirumaleshn2458/project_notebooks/tree/Big-Mart-Sales
   - Real Estate Sales in USA
   > https://github.com/tirumaleshn2458/project_notebooks/tree/Real-Estate-Sales
-  - Credit card fraud detection
-  > https://github.com/tirumaleshn2458/credit_card 
   - Air Quality Index
   > https://github.com/tirumaleshn2458/project_notebooks/tree/Air_quality_index_prediction
   - Water Quality Analysis
   > https://github.com/tirumaleshn2458/project_notebooks/tree/water_quality_prediction
+  > - Seoul Bike Sharing Demand
+  > https://github.com/tirumaleshn2458/project_notebooks/tree/seoul_bike_sharing_demand
+  - Credit card fraud detection
+  > https://github.com/tirumaleshn2458/credit_card 
   - Employee Retention
   > https://github.com/tirumaleshn2458/project_notebooks/tree/Employee-Attrition
   - Person Wage
@@ -36,7 +38,7 @@
 - Data Analysis
   - Maryland Vehicle Crashes
   > https://github.com/tirumaleshn2458/project_notebooks/tree/maryland_vehicle_crash
-  - Seoul Bike Sharing Demand
+  > 
 - Forecast
   - Connecticut House Prices
   > https://github.com/tirumaleshn2458/House-Prices-forecast
