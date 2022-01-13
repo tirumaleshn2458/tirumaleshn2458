@@ -13,7 +13,7 @@
   > https://github.com/tirumaleshn2458/project_notebooks/tree/Air_quality_index_prediction
   - Water Quality Analysis
   > https://github.com/tirumaleshn2458/project_notebooks/tree/water_quality_prediction
-  > - Seoul Bike Sharing Demand
+  - Seoul Bike Sharing Demand
   > https://github.com/tirumaleshn2458/project_notebooks/tree/seoul_bike_sharing_demand
   - Credit card fraud detection
   > https://github.com/tirumaleshn2458/credit_card 
