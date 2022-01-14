@@ -31,6 +31,8 @@
   > https://github.com/tirumaleshn2458/drug_classification
   - Car Price prediction
   > https://github.com/tirumaleshn2458/car_price
+  - Bike Sharing Demand
+  > https://github.com/tirumaleshn2458/bike_sharing
  
   
   
