@@ -50,9 +50,9 @@ I care less about the title and more about shipping things that hold up under re
 
 ## Featured work
 
-- **[DataTellsDS](https://github.com/tirumaleshn2458/DataTellsDS)** — a local-first, no-code data science desktop app (Streamlit + scikit-learn). 34 classifiers, 51 regressors, and your data never leaves your machine.
-- **PySpark Auto-Transform** — an open-source PySpark contribution that automates feature preparation, with one-line imputation and encoding on Spark.
-- **[Portfolio](https://tirumaleshn2458.github.io)** — the full picture of what I've built and shipped.
+- **[DataTellsDS](https://github.com/tirumaleshn2458/DataTellsDS)** - a local-first, no-code data science desktop app (Streamlit + scikit-learn). 34 classifiers, 51 regressors, and your data never leaves your machine.
+- **PySpark Auto-Transform** - an open-source PySpark contribution that automates feature preparation, with one-line imputation and encoding on Spark.
+- **[Portfolio](https://tirumaleshn2458.github.io)** - the full picture of what I've built and shipped.
 
 ## A bit more about me
 
