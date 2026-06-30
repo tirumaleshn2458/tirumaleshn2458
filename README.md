@@ -8,7 +8,7 @@ I build real-time backends, applied-AI systems, and products that ship to real u
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tirumaleshn2458.github.io-6EA8FE?style=for-the-badge)](https://tirumaleshn2458.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tirumaleshn2458.github.io-6EA8FE?style=for-the-badge)](https://tirumaleshn2458.github.io/tirumaleshn2458.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirumalesh-nagothi/)
 [![Email](https://img.shields.io/badge/Email-Reach%20out-43E0C8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirumaleshn1101@gmail.com)
 
