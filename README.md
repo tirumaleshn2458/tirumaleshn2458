@@ -68,10 +68,3 @@ I care less about the title and more about shipping things that hold up under re
 [![Email](https://img.shields.io/badge/Email-43E0C8?style=flat-square&logo=gmail&logoColor=white)](mailto:tirumaleshn1101@gmail.com)
 
 <br/>
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tirumaleshn2458&show_icons=true&hide_title=true&hide=contribs&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="160" src="https://streak-stats.demolab.com/?user=tirumaleshn2458&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
